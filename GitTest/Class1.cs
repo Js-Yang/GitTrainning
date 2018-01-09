@@ -8,5 +8,9 @@ namespace GitTest
 {
     public class Class1
     {
+        public void ThisIsMaster()
+        {
+            
+        }
     }
 }
